@@ -1,0 +1,18 @@
+body {
+  width: 480px;
+  height: 975px;
+  font-size: 18px;
+}
+
+h3 {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin:0 auto;
+}
+
+div {
+  margin-left: 40px;
+}
